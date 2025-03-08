@@ -1,0 +1,13 @@
+#Sat Mar 08 17:23:54 EET 2025
+path.3=12/classes.dex
+path.2=1/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=/media/ahmed-ebrahim/Other/Progress/Projects/study_map4/build/app/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.2=/media/ahmed-ebrahim/Other/Progress/Projects/study_map4/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.1=/media/ahmed-ebrahim/Other/Progress/Projects/study_map4/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/media/ahmed-ebrahim/Other/Progress/Projects/study_map4/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
